@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-seal",
+  "version": "0.0.8",
+  "description": "ESLint configuration for projects at SEAL Systems",
+  "author": {
+    "name": "SEAL Systems AG",
+    "email": "opensource@sealsystems.de",
+    "url": "https://www.sealsystems.de"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sealsystems/eslint-config-seal.git"
+  },
+  "dependencies": {
+    "eslint-config-es": "0.8.10"
+  },
+  "devDependencies": {
+    "roboter": "0.13.17",
+    "roboter-server": "0.13.17"
+  }
+}

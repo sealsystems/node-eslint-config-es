@@ -7,8 +7,13 @@
     "email": "opensource@sealsystems.de",
     "url": "https://www.sealsystems.de"
   },
-  "main": "index.js",
   "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "release": "bot release && npm publish",
+    "release-minor": "bot release --type minor && npm publish",
+    "release-major": "bot release --type major && npm publish"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sealsystems/eslint-config-seal.git"

@@ -22,7 +22,7 @@
     "eslint-config-es": "0.8.10"
   },
   "devDependencies": {
-    "roboter": "0.13.17",
-    "roboter-server": "0.13.17"
+    "roboter": "0.14.4",
+    "roboter-server": "0.14.4"
   }
 }

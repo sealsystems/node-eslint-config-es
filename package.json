@@ -19,10 +19,10 @@
     "url": "https://github.com/sealsystems/eslint-config-seal.git"
   },
   "dependencies": {
-    "eslint-config-es": "0.8.10"
+    "eslint-config-es": "0.8.12"
   },
   "devDependencies": {
-    "roboter": "0.14.4",
-    "roboter-server": "0.14.4"
+    "roboter": "0.15.4",
+    "roboter-server": "0.15.4"
   }
 }

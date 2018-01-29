@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-seal",
+  "name": "@sealsystems/eslint-config-es",
   "version": "0.1.0",
   "description": "ESLint configuration for projects at SEAL Systems",
   "author": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealsystems/eslint-config-seal.git"
+    "url": "https://github.com/sealsystems/node-eslint-config-es.git"
   },
   "dependencies": {
     "eslint-config-es": "0.8.12"

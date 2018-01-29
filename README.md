@@ -1,11 +1,11 @@
-# eslint-config-seal
+# @sealsystems/eslint-config-es
 
 ESLint configuration for projects at SEAL Systems
 
 ## Installation
 
 ```bash
-npm install eslint-config-seal
+npm install @sealsystems/eslint-config-es
 ```
 
 ## Quick start
@@ -14,6 +14,6 @@ Create a file with the name `.eslintrc` in the root directory of your project. I
 
 ```json
 {
-  "extends": "eslint-config-seal"
+  "extends": "@sealsystems/eslint-config-es"
 }
 ```

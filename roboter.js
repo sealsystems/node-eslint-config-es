@@ -9,11 +9,7 @@ roboter.
       src: ['**/*.js', '!node_modules/**/*.js', '!examples/**', '!coverage/**', '!temp/**', '!output/**'],
       rules: 'index.js'
     });
-    task('universal/license', {
-      disable: true
-    });
-    task('universal/test-units', {
-      src: 'test/**/*Test.js'
-    });
+    task('universal/license', { disable: true });
+    task('universal/test-units', { src: 'test/**/*Test.js' });
   }).
   start();

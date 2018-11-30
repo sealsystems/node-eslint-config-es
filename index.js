@@ -2,6 +2,9 @@
 
 module.exports = {
   extends: 'prettier',
+  parserOptions: {
+    ecmaVersion: 6
+  },
   rules: {
     'id-length': [0, {
       min: 2,

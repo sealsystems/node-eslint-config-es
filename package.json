@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/eslint-config-es",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "ESLint configuration for projects at SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-mocha": "5.2.1",
     "eslint-plugin-prettier": "3.0.0",
     "prettier": "1.15.3"
   }

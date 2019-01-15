@@ -5,7 +5,8 @@ module.exports = {
     "prettier"
   ],
   "plugins": [
-    "prettier"
+    "prettier",
+    "mocha"
   ],
   "env": {
     "node": true,
@@ -21,6 +22,7 @@ module.exports = {
       "arrowParens": "always"
     }],
     "no-console": "error",
-    "no-unused-vars": "error"
+    "no-unused-vars": "error",
+    "mocha/no-exclusive-tests": "error"
   }
 };

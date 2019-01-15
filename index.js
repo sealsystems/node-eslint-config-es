@@ -19,6 +19,8 @@ module.exports = {
       "singleQuote": true,
       "parser": "flow",
       "arrowParens": "always"
-    }]
+    }],
+    "no-console": "error",
+    "no-unused-vars": "error"
   }
 };

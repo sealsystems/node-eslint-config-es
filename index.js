@@ -5,12 +5,12 @@ module.exports = {
     "prettier"
   ],
   "plugins": [
-    "jest/globals",
+    "jest",
     "prettier",
     "mocha"
   ],
   "env": {
-    "jest": true,
+    "jest/globals": true,
     "node": true,
     "mocha": true,
     "es6": true

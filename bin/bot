@@ -4,9 +4,22 @@
 
 var shell = require('shelljs');
 
-shell.exec([
-  'eslint . --color',
-  'npm run test -- --colors',
-  'depcheck --ignores "eslint-*"',
-  'npm outdated'
-].join(' && '));
+shell.echo('');
+shell.echo('Linting...');
+shell.echo('');
+shell.exec('eslint . --color');
+
+shell.echo('');
+shell.echo('Running unit tests...');
+shell.echo('');
+shell.exec('npm run test -- --colors');
+
+shell.echo('');
+shell.echo('Checking for missing or unused dependencies...');
+shell.echo('');
+shell.exec('depcheck --ignores "eslint-*"');
+
+shell.echo('');
+shell.echo('Checking for outdated dependencies...');
+shell.echo('');
+shell.exec('npm outdated');

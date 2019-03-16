@@ -5,10 +5,12 @@ module.exports = {
     "prettier"
   ],
   "plugins": [
+    "jest/globals",
     "prettier",
     "mocha"
   ],
   "env": {
+    "jest": true,
     "node": true,
     "mocha": true,
     "es6": true
@@ -29,6 +31,7 @@ module.exports = {
     "no-dupe-keys": "error",
     "no-duplicate-case": "error",
     "no-unreachable": "error",
+    "jest/no-disabled-tests": "error",
     "mocha/no-exclusive-tests": "error"
   }
 };

@@ -10,7 +10,7 @@ npm install --save-dev @sealsystems/eslint-config-es
 
 ## Quick start
 
-Create a file with the name `.eslintrc` in the root directory of your project. It should contain at least the following lines:
+Create a file with the name `.eslintrc.json` in the root directory of your project. It should contain at least the following lines:
 
 ```json
 {

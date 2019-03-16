@@ -4,8 +4,9 @@
 
 var shell = require('shelljs');
 
-shell.exec(`   npm run lint \
-            && npm run test \
-            && depcheck --ignores 'eslint-*' \
-            && npm outdated \
-           `);
+shell.exec([
+  'eslint . --color',
+  'npm run test -- --colors',
+  'depcheck --ignores "eslint-*"',
+  'npm outdated'
+].join(' && '));

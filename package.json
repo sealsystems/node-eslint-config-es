@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "bin": {
-    "bot": "node bin/bot.js"
+    "bot": "bin/bot"
   },
   "main": "index.js",
   "repository": {

@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const shell = require('shelljs');
+
+shell.echo('');
+shell.echo('Fixing lint errors...');
+shell.echo('');
+
+shell.exec('eslint . --fix --ignore-path .gitignore --color', (code) => {
+  if (code !== 0) {
+    // eslint-disable-next-line no-process-exit
+    process.exit(1);
+  }
+
+  shell.echo('');
+  shell.echo('Done.');
+});

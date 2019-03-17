@@ -2,24 +2,49 @@
 
 'use strict';
 
-var shell = require('shelljs');
+const shell = require('shelljs');
 
 shell.echo('');
 shell.echo('Linting...');
 shell.echo('');
-shell.exec('eslint . --color');
+shell.exec('eslint . --ignore-path .gitignore --color', (codeEslint) => {
+  if (codeEslint !== 0) {
+    // eslint-disable-next-line no-process-exit
+    process.exit(1);
+  }
 
-shell.echo('');
-shell.echo('Running unit tests...');
-shell.echo('');
-shell.exec('npm run test -- --colors');
+  shell.echo('');
+  shell.echo('Running unit tests...');
+  shell.echo('');
+  shell.exec('npm run test -- --colors', (codeUnitTests) => {
+    if (codeUnitTests !== 0) {
+      // eslint-disable-next-line no-process-exit
+      process.exit(2);
+    }
 
-shell.echo('');
-shell.echo('Checking for missing or unused dependencies...');
-shell.echo('');
-shell.exec('depcheck --ignores "eslint-*"');
+    shell.echo('');
+    shell.echo('Checking for missing or unused dependencies...');
+    shell.echo('');
+    shell.exec('depcheck --ignores "eslint-*"', (codeDepcheck, stdoutDepcheck) => {
+      if (codeDepcheck !== 0) {
+        // Treat only missing dependencies as error
+        if (stdoutDepcheck.match(/Missing dependencies/)) {
+          // eslint-disable-next-line no-process-exit
+          process.exit(3);
+        }
+      }
 
-shell.echo('');
-shell.echo('Checking for outdated dependencies...');
-shell.echo('');
-shell.exec('npm outdated');
+      shell.echo('');
+      shell.echo('Checking for outdated dependencies...');
+      shell.echo('');
+      shell.exec('npm outdated', (codeOutdated) => {
+        if (codeOutdated !== 0) {
+          // Ignore errors
+        }
+
+        shell.echo('');
+        shell.echo('Done.');
+      });
+    });
+  });
+});

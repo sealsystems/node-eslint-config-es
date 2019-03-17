@@ -39,7 +39,6 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "assertthat": "2.0.3",
     "jest": "24.5.0",
     "license-checker": "25.0.1"
   },

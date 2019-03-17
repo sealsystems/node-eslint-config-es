@@ -1,3 +1,19 @@
+## 3.2.0 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Make Jest rules compatible with Mocha ([955d794](https://github.com/sealsystems/node-eslint-config-es/commit/955d794))
+
+### Features
+
+
+#### Add rules for Jest ([3630b11](https://github.com/sealsystems/node-eslint-config-es/commit/3630b11))
+
+
+
+---
+
 ## 3.1.1 (2019-03-17)
 
 ### Bug Fixes

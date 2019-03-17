@@ -1,3 +1,14 @@
+## 3.1.1 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Remove broken reflection rule ([ccb03f0](https://github.com/sealsystems/node-eslint-config-es/commit/ccb03f0))
+
+
+
+---
+
 ## 3.1.0 (2019-03-17)
 
 ### Features

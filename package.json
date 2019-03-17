@@ -18,7 +18,7 @@
     "bot": "bin/bot",
     "coverage": "nyc --reporter=lcov mocha",
     "licenses": "license-checker --production --csv",
-    "lint-fix": "bin/lint-fix",
+    "lint:fix": "bin/lint-fix",
     "lint": "bin/lint",
     "release": "semantic-release --branch ${CIRCLE_BRANCH}",
     "test": "mocha"
@@ -28,7 +28,7 @@
     "url": "https://github.com/sealsystems/node-eslint-config-es.git"
   },
   "dependencies": {
-    "@sealsystems/semantic-release-config": "3.1.0",
+    "@sealsystems/semantic-release-config": "3.2.0",
     "depcheck": "0.7.2",
     "eslint": "5.15.2",
     "eslint-config-prettier": "4.1.0",

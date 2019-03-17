@@ -15,11 +15,11 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "bot": "bin/bot",
+    "bot": "node bin/bot",
     "coverage": "jest --coverage",
     "licenses": "license-checker --production --csv",
-    "lint:fix": "bin/lint-fix",
-    "lint": "bin/lint",
+    "lint:fix": "node bin/lint-fix",
+    "lint": "node bin/lint",
     "release": "semantic-release --branch ${CIRCLE_BRANCH}",
     "test": "jest"
   },

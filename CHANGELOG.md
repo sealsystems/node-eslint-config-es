@@ -1,3 +1,14 @@
+## 3.1.0 (2019-03-17)
+
+### Features
+
+
+#### Ignore @sealsystems/semantic-release-config when checking for missing dependencies ([9fd6990](https://github.com/sealsystems/node-eslint-config-es/commit/9fd6990))
+
+
+
+---
+
 ## 3.0.0 (2019-03-17)
 
 ### Features

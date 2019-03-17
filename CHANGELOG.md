@@ -1,3 +1,14 @@
+## 3.2.1 (2019-03-17)
+
+### Chores
+
+
+#### Switch to Jest ([2a7ae9b](https://github.com/sealsystems/node-eslint-config-es/commit/2a7ae9b))
+
+
+
+---
+
 ## 3.2.0 (2019-03-17)
 
 ### Bug Fixes

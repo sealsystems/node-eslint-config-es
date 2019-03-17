@@ -43,5 +43,8 @@
     "license-checker": "25.0.1",
     "mocha": "6.0.2",
     "nyc": "13.3.0"
+  },
+  "release": {
+    "extends": "@sealsystems/semantic-release-config/node-module"
   }
 }

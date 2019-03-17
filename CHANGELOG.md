@@ -1,3 +1,14 @@
+## 3.2.3 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Deactivate Jest rule conflicting with Mocha ([1d86dd7](https://github.com/sealsystems/node-eslint-config-es/commit/1d86dd7))
+
+
+
+---
+
 ## 3.2.2 (2019-03-17)
 
 ### Bug Fixes

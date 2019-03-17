@@ -16,12 +16,12 @@
   "main": "lib/index.js",
   "scripts": {
     "bot": "bin/bot",
-    "coverage": "nyc --reporter=lcov mocha",
+    "coverage": "jest --coverage",
     "licenses": "license-checker --production --csv",
     "lint:fix": "bin/lint-fix",
     "lint": "bin/lint",
     "release": "semantic-release --branch ${CIRCLE_BRANCH}",
-    "test": "mocha"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -40,9 +40,8 @@
   },
   "devDependencies": {
     "assertthat": "2.0.3",
-    "license-checker": "25.0.1",
-    "mocha": "6.0.2",
-    "nyc": "13.3.0"
+    "jest": "24.5.0",
+    "license-checker": "25.0.1"
   },
   "release": {
     "extends": "@sealsystems/semantic-release-config/node-module"

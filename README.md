@@ -24,7 +24,7 @@ ESLint is installed as a dependency of `@sealsystems/eslint-config-es`. So you c
 $(npm bin)/eslint **/*.js
 ```
 
-The package also provides 3 CLI binaries:
+The package also provides 3 CLI executables:
 
 - `bot` runs the following checks:
 
@@ -35,6 +35,7 @@ The package also provides 3 CLI binaries:
   - Missing or unused dependencies (aborts the test run only if `package.json` does not contain a dependency)
 
   - Outdated dependencies (never aborts the test run)
+
   In case of an error, the returned status code indicates the number of the failed test
 
 - `lint` runs ESLint

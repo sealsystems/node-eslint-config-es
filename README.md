@@ -27,9 +27,13 @@ $(npm bin)/eslint **/*.js
 The package also provides 3 CLI binaries:
 
 - `bot` runs the following checks:
+
   - ESLint
+
   - Unit Tests by calling `npm run test`
+
   - Missing or unused dependencies (aborts the test run only if `package.json` does not contain a dependency)
+
   - Outdated dependencies (never aborts the test run)
   In case of an error, the returned status code indicates the number of the failed test
 
@@ -38,7 +42,9 @@ The package also provides 3 CLI binaries:
 - `lint-fix` runs ESLint with the option `--fix`
 
 Please note:
+
 - ESLint ignores all files and directories listed in the project's `.gitignore`.
+
 - To get a completely colorized output, you must force NPM to always use color:  
   `npm config set color always`
 

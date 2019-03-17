@@ -1,3 +1,14 @@
+## 3.2.2 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Call Node binary to fix Windows builds ([61139d4](https://github.com/sealsystems/node-eslint-config-es/commit/61139d4))
+
+
+
+---
+
 ## 3.2.1 (2019-03-17)
 
 ### Chores

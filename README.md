@@ -32,7 +32,7 @@ The package also provides 3 CLI executables:
 
   - Unit Tests by calling `npm run test`
 
-  - Missing or unused dependencies (aborts the test run only if `package.json` does not contain a dependency)
+  - Missing or unused dependencies (never aborts the test run)
 
   - Outdated dependencies (never aborts the test run)
 

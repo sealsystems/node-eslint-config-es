@@ -25,15 +25,7 @@ shell.exec('eslint . --ignore-path .gitignore --color', (codeEslint) => {
     shell.echo('');
     shell.echo('Checking for missing or unused dependencies...');
     shell.echo('');
-    shell.exec('depcheck --ignores "@sealsystems/semantic-release-config,eslint-*"', (codeDepcheck, stdoutDepcheck) => {
-      if (codeDepcheck !== 0) {
-        // Treat only missing dependencies as error
-        if (stdoutDepcheck.match(/Missing dependencies/)) {
-          // eslint-disable-next-line no-process-exit
-          process.exit(3);
-        }
-      }
-
+    shell.exec('depcheck --ignores "@sealsystems/semantic-release-config,eslint-*"', () => {
       shell.echo('');
       shell.echo('Checking for outdated dependencies...');
       shell.echo('');

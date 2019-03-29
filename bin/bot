@@ -16,7 +16,7 @@ shell.exec('eslint . --ignore-path .gitignore --color', (codeEslint) => {
   shell.echo('');
   shell.echo('Running unit tests...');
   shell.echo('');
-  shell.exec('npm run test -- --colors', (codeUnitTests) => {
+  shell.exec('npm run test --color always', (codeUnitTests) => {
     if (codeUnitTests !== 0) {
       // eslint-disable-next-line no-process-exit
       process.exit(2);
@@ -25,26 +25,29 @@ shell.exec('eslint . --ignore-path .gitignore --color', (codeEslint) => {
     shell.echo('');
     shell.echo('Checking for missing or unused dependencies...');
     shell.echo('');
-    shell.exec('depcheck --ignores "@sealsystems/semantic-release-config,assertthat,eslint-*"', (codeDepcheck, stdoutDepcheck) => {
-      if (codeDepcheck !== 0) {
-        // Treat only missing dependencies as error
-        if (stdoutDepcheck.match(/Missing dependencies/)) {
-          // eslint-disable-next-line no-process-exit
-          process.exit(3);
-        }
-      }
-
-      shell.echo('');
-      shell.echo('Checking for outdated dependencies...');
-      shell.echo('');
-      shell.exec('npm outdated', (codeOutdated) => {
-        if (codeOutdated !== 0) {
-          // Ignore errors
+    shell.exec(
+      'depcheck --ignores "@sealsystems/semantic-release-config,assertthat,eslint-*"',
+      (codeDepcheck, stdoutDepcheck) => {
+        if (codeDepcheck !== 0) {
+          // Treat only missing dependencies as error
+          if (stdoutDepcheck.match(/Missing dependencies/)) {
+            // eslint-disable-next-line no-process-exit
+            process.exit(3);
+          }
         }
 
         shell.echo('');
-        shell.echo('Done.');
-      });
-    });
+        shell.echo('Checking for outdated dependencies...');
+        shell.echo('');
+        shell.exec('npm outdated --color always', (codeOutdated) => {
+          if (codeOutdated !== 0) {
+            // Ignore errors
+          }
+
+          shell.echo('');
+          shell.echo('Done.');
+        });
+      }
+    );
   });
 });

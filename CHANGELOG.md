@@ -1,3 +1,14 @@
+## 3.2.5 (2019-03-29)
+
+### Bug Fixes
+
+
+#### Do not capture stdout of depcheck to prevent problems on CI servers ([6d340c4](https://github.com/sealsystems/node-eslint-config-es/commit/6d340c4))
+
+
+
+---
+
 ## 3.2.4 (2019-03-29)
 
 ### Chores

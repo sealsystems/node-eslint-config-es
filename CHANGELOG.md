@@ -1,3 +1,14 @@
+## 3.3.1 (2019-03-29)
+
+### Bug Fixes
+
+
+#### Force color output ([849688f](https://github.com/sealsystems/node-eslint-config-es/commit/849688f))
+
+
+
+---
+
 ## 3.3.0 (2019-03-29)
 
 ### Features

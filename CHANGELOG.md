@@ -1,3 +1,14 @@
+## 3.3.0 (2019-03-29)
+
+### Features
+
+
+#### Do not check for missing assertthat which is already required by [@sealsystems](https://github.com/sealsystems)/test-config-mocha ([24ca97a](https://github.com/sealsystems/node-eslint-config-es/commit/24ca97a))
+
+
+
+---
+
 ## 3.2.5 (2019-03-29)
 
 ### Bug Fixes

@@ -1,3 +1,14 @@
+## 4.0.1 (2019-04-01)
+
+### Bug Fixes
+
+
+#### Allow to publish a public module ([c20023d](https://github.com/sealsystems/node-eslint/commit/c20023d))
+
+
+
+---
+
 ## 4.0.0 (2019-04-01)
 
 ### Features

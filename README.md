@@ -1,11 +1,11 @@
-# @sealsystems/eslint-config-es
+# @sealsystems/eslint
 
-ESLint configuration for projects at SEAL Systems
+ESLint executable and configuration for SEAL Systems
 
 ## Installation
 
 ```bash
-npm install --save-dev @sealsystems/eslint-config-es
+npm install --save-dev @sealsystems/eslint
 ```
 
 ## Quick start
@@ -14,15 +14,19 @@ Create a file with the name `.eslintrc.json` in the root directory of your proje
 
 ```json
 {
-  "extends": "@sealsystems/eslint-config-es"
+  "extends": "@sealsystems/eslint"
 }
 ```
 
-ESLint is installed as a dependency of `@sealsystems/eslint-config-es`. So you can call `eslint` from the root directory of your project:
+ESLint is installed as a dependency of `@sealsystems/eslint`. So you can call `eslint` from the root directory of your project:
 
 ```shell
 $(npm bin)/eslint **/*.js
 ```
+
+Please note:
+
+- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `package-lock.json` before adding this package.
 
 The package also provides 3 CLI executables:
 

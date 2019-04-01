@@ -50,9 +50,6 @@ Please note:
 
 - ESLint ignores all files and directories listed in the project's `.gitignore`.
 
-- To get a completely colorized output, you must force NPM to always use color:  
-  `npm config set color always`
-
 To use these binaries, add some scripts to your `package.json`:
 
 ```json

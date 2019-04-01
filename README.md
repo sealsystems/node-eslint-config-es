@@ -1,6 +1,6 @@
 # @sealsystems/eslint-config-es
 
-ESLint configuration for projects at SEAL Systems
+ESLint executable and configuration for SEAL Systems
 
 ## Installation
 
@@ -23,6 +23,10 @@ ESLint is installed as a dependency of `@sealsystems/eslint-config-es`. So you c
 ```shell
 $(npm bin)/eslint **/*.js
 ```
+
+Please note:
+
+- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `package-lock.json` before adding this package.
 
 The package also provides 3 CLI executables:
 

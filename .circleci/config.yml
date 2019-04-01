@@ -38,8 +38,8 @@ jobs:
           name: Run tests
           command: npm run bot
       - run:
-          name: Run code coverage
-          command: npm run coverage
+          name: Collect code coverage
+          command: npm run test:coverage
       - store_artifacts:
           path: coverage/lcov-report
           destination: coverage

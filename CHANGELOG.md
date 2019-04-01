@@ -1,3 +1,14 @@
+## 3.3.2 (2019-04-01)
+
+### Chores
+
+
+#### Update dependencies ([b2bb7f6](https://github.com/sealsystems/node-eslint-config-es/commit/b2bb7f6))
+
+
+
+---
+
 ## 3.3.1 (2019-03-29)
 
 ### Bug Fixes

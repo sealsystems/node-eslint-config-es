@@ -1,3 +1,32 @@
+## 4.0.0 (2019-04-01)
+
+### Features
+
+
+#### Rename project ([98980a9](https://github.com/sealsystems/node-eslint/commit/98980a9))
+
+
+
+### BREAKING CHANGES
+
+#### Configuration changes needed
+
+You must change the dependency in you package.json from
+
+```
+   "@sealsystems/eslint-config-es": "a.b.c"
+```
+
+to 
+
+```
+   "@sealsystems/eslint": "x.y.z"
+```
+
+in order to use the new version.
+
+---
+
 ## 3.3.1 (2019-03-29)
 
 ### Bug Fixes

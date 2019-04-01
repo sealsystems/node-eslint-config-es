@@ -1,3 +1,14 @@
+## 3.3.3 (2019-04-01)
+
+### Bug Fixes
+
+
+#### Update ignored packages ([18dc718](https://github.com/sealsystems/node-eslint-config-es/commit/18dc718))
+
+
+
+---
+
 ## 3.3.2 (2019-04-01)
 
 ### Chores

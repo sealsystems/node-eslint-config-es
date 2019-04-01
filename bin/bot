@@ -26,7 +26,7 @@ shell.exec('eslint . --ignore-path .gitignore --color', (codeEslint) => {
     shell.echo('Checking for missing or unused dependencies...');
     shell.echo('');
     shell.exec(
-      'depcheck --ignores "@sealsystems/semantic-release-config,assertthat,eslint-*"',
+      'depcheck --ignores "@sealsystems/semantic-release,assertthat,eslint-*"',
       (codeDepcheck, stdoutDepcheck) => {
         if (codeDepcheck !== 0) {
           // Treat only missing dependencies as error

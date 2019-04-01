@@ -1,3 +1,21 @@
+## 4.0.2 (2019-04-01)
+
+### Bug Fixes
+
+
+#### Fix build ([5b5a444](https://github.com/sealsystems/node-eslint/commit/5b5a444))
+
+#### Fix build ([6c00b8c](https://github.com/sealsystems/node-eslint/commit/6c00b8c))
+
+### Chores
+
+
+#### Update dependencies ([a670e08](https://github.com/sealsystems/node-eslint/commit/a670e08))
+
+
+
+---
+
 ## 4.0.1 (2019-04-01)
 
 ### Bug Fixes

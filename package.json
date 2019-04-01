@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/eslint",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "ESLint executable and configuration for SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",

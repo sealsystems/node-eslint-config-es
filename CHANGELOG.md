@@ -1,3 +1,14 @@
+## 3.3.4 (2019-04-08)
+
+### Bug Fixes
+
+
+#### no-extra-parens only for functions ([5122586](https://github.com/sealsystems/node-eslint-config-es/commit/5122586))
+
+
+
+---
+
 ## 3.3.3 (2019-04-01)
 
 ### Bug Fixes

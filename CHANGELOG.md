@@ -1,3 +1,14 @@
+## 3.3.5 (2019-04-24)
+
+### Bug Fixes
+
+
+#### Disable problematic rule ([155592c](https://github.com/sealsystems/node-eslint-config-es/commit/155592c))
+
+
+
+---
+
 ## 3.3.4 (2019-04-08)
 
 ### Bug Fixes

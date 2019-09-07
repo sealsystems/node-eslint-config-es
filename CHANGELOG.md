@@ -1,3 +1,14 @@
+## 3.3.12 (2019-09-07)
+
+### Chores
+
+
+#### Reference other build-related modules by repository name ([b452762](https://github.com/sealsystems/node-eslint-config-es/commit/b452762))
+
+
+
+---
+
 ## 3.3.11 (2019-09-07)
 
 ### Chores

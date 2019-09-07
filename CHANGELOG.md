@@ -1,3 +1,14 @@
+## 3.3.14 (2019-09-07)
+
+### Chores
+
+
+#### Update dependencies ([d210c06](https://github.com/sealsystems/node-eslint-config-es/commit/d210c06))
+
+
+
+---
+
 ## 3.3.13 (2019-09-07)
 
 ### Chores

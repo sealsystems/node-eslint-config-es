@@ -1,3 +1,21 @@
+## 3.3.13 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release ([98a4505](https://github.com/sealsystems/node-eslint-config-es/commit/98a4505))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from `9206ef1` to `51dc5c8`.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/9206ef10153df791018577e8fd0c05eabda44373...51dc5c819b9747e6aee5c48f180911b812bef71f)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### Remove devDependencies from Dependabot config to prevent endless loop ([2937554](https://github.com/sealsystems/node-eslint-config-es/commit/2937554))
+
+
+
+---
+
 ## 3.3.12 (2019-09-07)
 
 ### Chores

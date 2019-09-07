@@ -20,9 +20,10 @@
     "lint:fix": "node bin/lint-fix",
     "lint": "node bin/lint",
     "release": "release",
-    "test": "jest",
-    "test:coverage": "test-coverage",
-    "test:report": "test-report"
+    "test": "echo Not implemented.",
+    "test:coverage:check": "echo Not implemented.",
+    "test:coverage": "echo Not implemented.",
+    "test:report": "echo Not implemented."
   },
   "repository": {
     "type": "git",
@@ -39,8 +40,7 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "@sealsystems/semantic-release": "4.0.3",
-    "@sealsystems/jest": "2.0.1",
+    "@sealsystems/semantic-release": "sealsystems/node-semantic-release",
     "license-checker": "25.0.1"
   },
   "release": {

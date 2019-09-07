@@ -69,3 +69,7 @@ npm run bot
 npm run lint
 npm run lint:fix
 ```
+
+## Implementation details
+
+**Please note:** This module is part of the build and release infrastructure. In [package.json](package.json), all other related modules are referenced not by version numbers but by the repository name. This prevents a loop when automatically updating dependencies via Dependabot.

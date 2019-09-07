@@ -1,3 +1,20 @@
+## 3.3.6 (2019-09-07)
+
+### Chores
+
+
+#### update [@sealsystems](https://github.com/sealsystems)/semantic-release requirement ([edd6c61](https://github.com/sealsystems/node-eslint-config-es/commit/edd6c61))
+
+Updates the requirements on [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) to permit the latest version.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.0...4.0.2)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.3.5 (2019-04-24)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/eslint-config-es",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "description": "ESLint executable and configuration for SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",
@@ -39,7 +39,7 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "@sealsystems/semantic-release": "4.0.0",
+    "@sealsystems/semantic-release": "4.0.2",
     "@sealsystems/jest": "2.0.0",
     "license-checker": "25.0.1"
   },

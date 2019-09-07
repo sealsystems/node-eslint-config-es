@@ -1,3 +1,81 @@
+## 3.3.11 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.6 to 4.0.7 ([dd2559e](https://github.com/sealsystems/node-eslint-config-es/commit/dd2559e))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.6 to 4.0.7.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.6...4.0.7)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
+## 3.3.10 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.5 to 4.0.6 ([53e21a2](https://github.com/sealsystems/node-eslint-config-es/commit/53e21a2))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.5 to 4.0.6.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.5...4.0.6)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
+## 3.3.9 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.4 to 4.0.5 ([aa098f4](https://github.com/sealsystems/node-eslint-config-es/commit/aa098f4))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.4 to 4.0.5.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.4...4.0.5)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
+## 3.3.8 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.0 to 4.0.3 ([ba5b8af](https://github.com/sealsystems/node-eslint-config-es/commit/ba5b8af))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.0 to 4.0.3.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.0...4.0.3)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### Update .npmignore ([b85cf61](https://github.com/sealsystems/node-eslint-config-es/commit/b85cf61))
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.3 to 4.0.4 ([714031a](https://github.com/sealsystems/node-eslint-config-es/commit/714031a))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.3 to 4.0.4.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.3...4.0.4)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.3.7 (2019-09-07)
 
 ### Chores

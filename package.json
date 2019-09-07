@@ -39,7 +39,7 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "@sealsystems/semantic-release": "4.0.7",
+    "@sealsystems/semantic-release": "4.0.8",
     "@sealsystems/jest": "2.0.1",
     "license-checker": "25.0.1"
   },

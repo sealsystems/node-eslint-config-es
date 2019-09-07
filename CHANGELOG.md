@@ -1,3 +1,20 @@
+## 3.3.7 (2019-09-07)
+
+### Chores
+
+
+#### update [@sealsystems](https://github.com/sealsystems)/jest requirement ([d59158a](https://github.com/sealsystems/node-eslint-config-es/commit/d59158a))
+
+Updates the requirements on [@sealsystems/jest](https://github.com/sealsystems/node-jest) to permit the latest version.
+- [Release notes](https://github.com/sealsystems/node-jest/releases)
+- [Changelog](https://github.com/sealsystems/node-jest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-jest/compare/2.0.0...2.0.1)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.3.6 (2019-09-07)
 
 ### Chores

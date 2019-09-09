@@ -1,3 +1,19 @@
+## 3.5.0 (2019-09-09)
+
+### Bug Fixes
+
+
+#### Disable 'require-automatic-updates' ([7f593e3](https://github.com/sealsystems/node-eslint-config-es/commit/7f593e3))
+
+### Features
+
+
+#### Remove jest-related rules since they interfere with mocha tests ([32be94e](https://github.com/sealsystems/node-eslint-config-es/commit/32be94e))
+
+
+
+---
+
 ## 3.4.0 (2019-09-09)
 
 ### Features

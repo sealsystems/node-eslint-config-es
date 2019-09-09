@@ -1,3 +1,14 @@
+## 3.4.0 (2019-09-09)
+
+### Features
+
+
+#### Enforce curly braces around code blocks ([f7b2b26](https://github.com/sealsystems/node-eslint-config-es/commit/f7b2b26))
+
+
+
+---
+
 ## 3.3.15 (2019-09-07)
 
 ### Chores

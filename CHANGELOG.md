@@ -1,3 +1,20 @@
+## 3.5.1 (2019-09-10)
+
+### Chores
+
+
+#### bump eslint-config-prettier from 6.2.0 to 6.3.0 ([a16beba](https://github.com/sealsystems/node-eslint-config-es/commit/a16beba))
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 6.2.0 to 6.3.0.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v6.2.0...v6.3.0)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.5.0 (2019-09-09)
 
 ### Bug Fixes

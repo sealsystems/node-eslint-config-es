@@ -1,3 +1,14 @@
+## 3.5.2 (2019-09-11)
+
+### Chores
+
+
+#### bump eslint-plugin-mocha from 6.1.0 to 6.1.1, [lo1](Bumps [eslint-plugin-mocha](https://github.com/lo1), [lo1](- [Release notes](https://github.com/lo1), [lo1](- [Changelog](https://github.com/lo1), [lo1](- [Commits](https://github.com/lo1) ([2e80d0a](https://github.com/sealsystems/node-eslint-config-es/commit/2e80d0a))
+
+
+
+---
+
 ## 3.5.1 (2019-09-10)
 
 ### Chores

@@ -1,3 +1,20 @@
+## 3.5.4 (2019-09-25)
+
+### Chores
+
+
+#### bump eslint-plugin-prettier from 3.1.0 to 3.1.1 ([f340a68](https://github.com/sealsystems/node-eslint-config-es/commit/f340a68))
+
+Bumps [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) from 3.1.0 to 3.1.1.
+- [Release notes](https://github.com/prettier/eslint-plugin-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-plugin-prettier/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-plugin-prettier/compare/v3.1.0...v3.1.1)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.5.3 (2019-09-14)
 
 ### Chores

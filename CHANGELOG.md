@@ -1,3 +1,65 @@
+## 3.5.4 (2019-09-25)
+
+### Chores
+
+
+#### bump eslint-plugin-prettier from 3.1.0 to 3.1.1 ([f340a68](https://github.com/sealsystems/node-eslint-config-es/commit/f340a68))
+
+Bumps [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) from 3.1.0 to 3.1.1.
+- [Release notes](https://github.com/prettier/eslint-plugin-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-plugin-prettier/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-plugin-prettier/compare/v3.1.0...v3.1.1)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
+## 3.5.3 (2019-09-14)
+
+### Chores
+
+
+#### bump eslint from 6.3.0 to 6.4.0 ([b1c4d67](https://github.com/sealsystems/node-eslint-config-es/commit/b1c4d67))
+
+Bumps [eslint](https://github.com/eslint/eslint) from 6.3.0 to 6.4.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v6.3.0...v6.4.0)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
+## 3.5.2 (2019-09-11)
+
+### Chores
+
+
+#### bump eslint-plugin-mocha from 6.1.0 to 6.1.1, [lo1](Bumps [eslint-plugin-mocha](https://github.com/lo1), [lo1](- [Release notes](https://github.com/lo1), [lo1](- [Changelog](https://github.com/lo1), [lo1](- [Commits](https://github.com/lo1) ([2e80d0a](https://github.com/sealsystems/node-eslint-config-es/commit/2e80d0a))
+
+
+
+---
+
+## 3.5.1 (2019-09-10)
+
+### Chores
+
+
+#### bump eslint-config-prettier from 6.2.0 to 6.3.0 ([a16beba](https://github.com/sealsystems/node-eslint-config-es/commit/a16beba))
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 6.2.0 to 6.3.0.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v6.2.0...v6.3.0)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.5.0 (2019-09-09)
 
 ### Bug Fixes

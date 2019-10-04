@@ -15,15 +15,15 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "bot": "bot",
+    "bot": "node bin/bot",
     "licenses": "license-checker --production --csv",
-    "lint:fix": "lint-fix",
-    "lint": "lint",
+    "lint:fix": "node bin/lint-fix",
+    "lint": "node bin/lint",
     "release": "release",
-    "test": "test-run",
-    "test:coverage:check": "test-coverage-check",
-    "test:coverage": "test-coverage",
-    "test:report": "test-report"
+    "test": "echo Not implemented.",
+    "test:coverage:check": "echo Not implemented.",
+    "test:coverage": "echo Not implemented.",
+    "test:report": "echo Not implemented."
   },
   "repository": {
     "type": "git",

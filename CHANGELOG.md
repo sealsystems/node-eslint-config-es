@@ -1,3 +1,14 @@
+## 3.5.6 (2019-10-06)
+
+### Chores
+
+
+#### bump eslint-config-prettier from 6.3.0 to 6.4.0 ([d760c0f](https://github.com/sealsystems/node-eslint-config-es/commit/d760c0f))
+
+
+
+---
+
 ## 3.5.5 (2019-10-05)
 
 ### Chores

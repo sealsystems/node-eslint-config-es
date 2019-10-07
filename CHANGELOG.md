@@ -1,3 +1,16 @@
+## 3.6.0 (2019-10-07)
+
+### Features
+
+
+#### PLS-431 ([4b79f61](https://github.com/sealsystems/node-eslint-config-es/commit/4b79f61))
+
+- Used `seal-node:oss-module-update`
+ - Reverted scripts
+
+
+---
+
 ## 3.5.6 (2019-10-06)
 
 ### Chores

@@ -1,3 +1,14 @@
+## 3.6.2 (2020-02-16)
+
+### Chores
+
+
+#### bump eslint from 6.5.1 to 6.8.0 ([82ccc4a](https://github.com/sealsystems/node-eslint-config-es/commit/82ccc4a))
+
+
+
+---
+
 ## 3.6.1 (2020-02-16)
 
 ### Chores

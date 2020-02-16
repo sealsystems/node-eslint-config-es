@@ -1,3 +1,34 @@
+## 3.6.1 (2020-02-16)
+
+### Chores
+
+
+#### bump depcheck from 0.8.3 to 0.9.2 ([8abdfbf](https://github.com/sealsystems/node-eslint-config-es/commit/8abdfbf))
+
+Bumps depcheck from 0.8.3 to 0.9.2.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### bump eslint-config-prettier from 6.4.0 to 6.10.0 ([2c4e039](https://github.com/sealsystems/node-eslint-config-es/commit/2c4e039))
+
+Bumps eslint-config-prettier from 6.4.0 to 6.10.0.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### bump eslint-plugin-mocha from 6.1.1 to 6.2.2 ([a6dbae6](https://github.com/sealsystems/node-eslint-config-es/commit/a6dbae6))
+
+Bumps eslint-plugin-mocha from 6.1.1 to 6.2.2.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### bump eslint-plugin-prettier from 3.1.1 to 3.1.2 ([f86bc07](https://github.com/sealsystems/node-eslint-config-es/commit/f86bc07))
+
+Bumps eslint-plugin-prettier from 3.1.1 to 3.1.2.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### bump prettier from 1.18.2 to 1.19.1 ([b3d8bbb](https://github.com/sealsystems/node-eslint-config-es/commit/b3d8bbb))
+
+
+
+---
+
 ## 3.6.0 (2019-10-07)
 
 ### Features

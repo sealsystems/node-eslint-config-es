@@ -1,5 +1,6 @@
 # @sealsystems/eslint-config-es
 
+
 ESLint executable and configuration for SEAL Systems
 
 ## Installation

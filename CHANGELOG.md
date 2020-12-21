@@ -1,3 +1,22 @@
+## 3.6.5 (2020-12-21)
+
+### Chores
+
+
+#### bump eslint-config-prettier from 6.10.0 to 6.15.0 ([bd9e1c3](https://github.com/sealsystems/node-eslint-config-es/commit/bd9e1c3))
+
+#### bump eslint-plugin-prettier from 3.1.2 to 3.3.0 ([c8cd439](https://github.com/sealsystems/node-eslint-config-es/commit/c8cd439))
+
+#### bump ini from 1.3.5 to 1.3.8 ([39ec617](https://github.com/sealsystems/node-eslint-config-es/commit/39ec617))
+
+#### bump node-fetch from 2.6.0 to 2.6.1 ([1488fe6](https://github.com/sealsystems/node-eslint-config-es/commit/1488fe6))
+
+#### bump shelljs from 0.8.3 to 0.8.4 ([d051158](https://github.com/sealsystems/node-eslint-config-es/commit/d051158))
+
+
+
+---
+
 ## 3.6.4 (2020-12-21)
 
 ### Chores

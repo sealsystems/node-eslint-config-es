@@ -1,3 +1,16 @@
+## 3.6.4 (2020-12-21)
+
+### Chores
+
+
+#### Trigger release ([4c446f4](https://github.com/sealsystems/node-eslint-config-es/commit/4c446f4))
+
+#### Update build configuration ([9bdc47e](https://github.com/sealsystems/node-eslint-config-es/commit/9bdc47e))
+
+
+
+---
+
 ## 3.6.3 (2020-03-09)
 
 ### Chores

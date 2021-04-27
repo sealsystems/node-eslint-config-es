@@ -1,3 +1,14 @@
+## 3.6.6 (2021-04-27)
+
+### Chores
+
+
+#### bump eslint-plugin-mocha from 6.2.2 to 6.3.0 ([#57](https://github.com/sealsystems/node-eslint-config-es/issues/57)) ([c5b8095](https://github.com/sealsystems/node-eslint-config-es/commit/c5b8095))
+
+
+
+---
+
 ## 3.6.5 (2020-12-21)
 
 ### Chores

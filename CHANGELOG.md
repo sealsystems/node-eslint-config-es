@@ -1,3 +1,10 @@
+## 3.6.7 (2021-04-27)
+
+### Chores
+
+
+Update dependencies ([f6a5cb7](https://github.com/sealsystems/node-eslint-config-es/commit/f6a5cb7))
+
 ## 3.6.6 (2021-04-27)
 
 ### Chores

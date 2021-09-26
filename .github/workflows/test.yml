@@ -34,7 +34,7 @@ jobs:
         - 8500:8500
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
       - name: Use latest LTS Node.js
         uses: actions/setup-node@v2

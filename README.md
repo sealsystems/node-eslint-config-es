@@ -72,4 +72,4 @@ npm run lint:fix
 
 ## Implementation details
 
-**Please note:** This module is part of the build and release infrastructure. In order to prevent endless loops when automatically updating dependencies via Dependabot, devDependencies are not included in the [config file](.dependabot/config.yml).
+**Please note:** This module is part of the build and release infrastructure. In order to prevent endless loops when automatically updating dependencies, Dependabot is not enabled.

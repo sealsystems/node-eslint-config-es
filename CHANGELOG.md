@@ -1,3 +1,10 @@
+## 3.6.8 (2021-09-26)
+
+### Chores
+
+
+Trigger release ([d34de09](https://github.com/sealsystems/node-eslint-config-es/commit/d34de09))
+
 ## 3.6.7 (2021-04-27)
 
 ### Chores

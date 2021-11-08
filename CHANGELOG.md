@@ -1,3 +1,12 @@
+## 3.7.0 (2021-11-08)
+
+### Features
+
+
+Update index.js ([3573431](https://github.com/sealsystems/node-eslint-config-es/commit/3573431))
+
+Use ecmaVersion2020 instead of 2018
+
 ## 3.6.8 (2021-09-26)
 
 ### Chores

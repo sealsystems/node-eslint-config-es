@@ -1,3 +1,10 @@
+## 3.7.4 (2022-02-04)
+
+### Bug Fixes
+
+
+Remove itself from devDependencies ([7a675b5](https://github.com/sealsystems/node-eslint-config-es/commit/7a675b5))
+
 ## 3.7.3 (2022-02-04)
 
 ### Chores

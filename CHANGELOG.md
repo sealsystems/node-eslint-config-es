@@ -1,3 +1,10 @@
+## 3.7.5 (2022-02-04)
+
+### Chores
+
+
+bump depcheck from 1.4.2 to 1.4.3 ([32111cc](https://github.com/sealsystems/node-eslint-config-es/commit/32111cc))
+
 ## 3.7.4 (2022-02-04)
 
 ### Bug Fixes

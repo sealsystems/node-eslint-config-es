@@ -1,3 +1,17 @@
+## 3.7.3 (2022-02-04)
+
+### Chores
+
+
+bump node-fetch from 2.6.6 to 2.6.7 ([c28863d](https://github.com/sealsystems/node-eslint-config-es/commit/c28863d))
+
+## 3.7.2 (2022-02-04)
+
+### Chores
+
+
+bump nanoid from 3.1.30 to 3.2.0 ([6fe4c45](https://github.com/sealsystems/node-eslint-config-es/commit/6fe4c45))
+
 ## 3.7.1 (2022-02-04)
 
 ### Chores

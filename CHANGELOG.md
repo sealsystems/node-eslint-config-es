@@ -1,3 +1,10 @@
+## 3.7.1 (2022-02-04)
+
+### Chores
+
+
+bump shelljs from 0.8.4 to 0.8.5 ([0efece1](https://github.com/sealsystems/node-eslint-config-es/commit/0efece1))
+
 ## 3.7.0 (2021-11-08)
 
 ### Features

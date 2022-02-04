@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/eslint-config-es",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "description": "ESLint executable and configuration for SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",

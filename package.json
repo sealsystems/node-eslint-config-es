@@ -39,7 +39,7 @@
     "shelljs": "0.8.5"
   },
   "devDependencies": {
-    "@sealsystems/mocha": "4.2.2",
+    "@sealsystems/mocha": "4.2.3",
     "license-checker": "25.0.1"
   },
   "release": {

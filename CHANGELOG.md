@@ -1,3 +1,12 @@
+## 3.7.6 (2022-02-05)
+
+### Chores
+
+
+bump eslint from 8.2.0 to 8.8.0 ([f9605c3](https://github.com/sealsystems/node-eslint-config-es/commit/f9605c3))
+
+bump prettier from 2.4.1 to 2.5.1 ([3265a61](https://github.com/sealsystems/node-eslint-config-es/commit/3265a61))
+
 ## 3.7.5 (2022-02-04)
 
 ### Chores

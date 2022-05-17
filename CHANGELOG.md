@@ -1,3 +1,10 @@
+## 3.7.7 (2022-05-17)
+
+### Chores
+
+
+Use ecma version 2022 ([9011e58](https://github.com/sealsystems/node-eslint-config-es/commit/9011e58))
+
 ## 3.7.6 (2022-02-05)
 
 ### Chores

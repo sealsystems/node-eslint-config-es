@@ -1,3 +1,10 @@
+## 3.7.8 (2023-04-04)
+
+### Bug Fixes
+
+
+Ignore typescript files from node js projects when doing depcheck ([44feb32](https://github.com/sealsystems/node-eslint-config-es/commit/44feb32))
+
 ## 3.7.7 (2022-05-17)
 
 ### Chores

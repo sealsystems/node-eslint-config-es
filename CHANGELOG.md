@@ -1,3 +1,10 @@
+## 3.7.9 (2024-06-05)
+
+### Chores
+
+
+Update update-build-config.yml ([d458683](https://github.com/sealsystems/node-eslint-config-es/commit/d458683))
+
 ## 3.7.8 (2023-04-04)
 
 ### Bug Fixes

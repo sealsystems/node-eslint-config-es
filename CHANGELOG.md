@@ -1,3 +1,10 @@
+## 3.7.10 (2024-06-05)
+
+### Chores
+
+
+Trigger release ([03048a9](https://github.com/sealsystems/node-eslint-config-es/commit/03048a9))
+
 ## 3.7.9 (2024-06-05)
 
 ### Chores
